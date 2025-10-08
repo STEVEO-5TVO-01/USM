@@ -263,7 +263,7 @@ local function JWHR_fake_script() -- USMMenyoo.Script
 	local button = script.Parent
 	
 	button.MouseButton1Click:Connect(function()
-		loadstring("https://raw.githubusercontent.com/STEVEO-5TVO-01/USM/refs/heads/main/USMMenyoo.lua")
+		loadstring("https://raw.githubusercontent.com/STEVEO-5TVO-01/USM/refs/heads/main/USMMenyoo.lua"))()
 	end)
 end
 coroutine.wrap(JWHR_fake_script)()
@@ -273,7 +273,7 @@ local function BZCZNTO_fake_script() -- LalolHub.Script
 	local button = script.Parent
 	
 	button.MouseButton1Click:Connect(function()
-		loadstring("https://raw.githubusercontent.com/Its-LALOL/LALOL-Hub/refs/heads/main/Backdoor-Scanner/script")
+		loadstring("https://raw.githubusercontent.com/Its-LALOL/LALOL-Hub/refs/heads/main/Backdoor-Scanner/script"))()
 	end)
 end
 coroutine.wrap(BZCZNTO_fake_script)()
